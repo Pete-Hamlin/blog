@@ -1,0 +1,24 @@
+---
+layout: page
+# The blogroll layout
+---
+
+{% include lang.html %}
+
+<div class="post-content">
+  {{ content }}
+</div>
+
+<div id="blogroll" >
+  <ul class="list-unstyled">
+  {% for blog in site.data.blogs %}
+    <li>
+      <h4>{{ blog.title }}
+        <a href="{{ blog.url }}"><i class="fas fa-code"></i></a>
+        <a href="{{ blog.feed }}"><i class="fas fa-rss"></i></a>
+      </h4>
+      <p>{{ blog.desc }}</p>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
