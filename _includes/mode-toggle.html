@@ -89,16 +89,23 @@
     setDark() {
       document.documentElement.setAttribute(ModeToggle.MODE_ATTR, ModeToggle.DARK_MODE);
       sessionStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.DARK_MODE);
+      document.getElementById("mode-toggle").setAttribute("class", "fas fa-sun")
     }
 
     setLight() {
       document.documentElement.setAttribute(ModeToggle.MODE_ATTR, ModeToggle.LIGHT_MODE);
       sessionStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.LIGHT_MODE);
+      document.getElementById("mode-toggle").setAttribute("class", "fas fa-moon")
     }
 
     clearMode() {
       document.documentElement.removeAttribute(ModeToggle.MODE_ATTR);
       sessionStorage.removeItem(ModeToggle.MODE_KEY);
+      if (this.isSysDarkPrefer) {
+        document.getElementById("mode-toggle").setAttribute("class", "fas fa-sun")
+      } else {
+        document.getElementById("mode-toggle").setAttribute("class", "fas fa-moon")
+      }
     }
 
     /* Notify another plugins that the theme mode has changed */
