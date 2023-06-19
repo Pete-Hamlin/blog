@@ -533,39 +533,39 @@ i {
   display: inline-flex;
 }
 
-.shimmer {
-  overflow: hidden;
-  position: relative;
-  background: var(--img-bg);
+// .shimmer {
+//   overflow: hidden;
+//   position: relative;
+//   background: var(--img-bg);
 
-  &::before {
-    content: '';
-    position: absolute;
-    background: var(--shimmer-bg);
-    height: 100%;
-    width: 100%;
-    -webkit-animation: shimmer 1s infinite;
-    animation: shimmer 1s infinite;
-  }
+//   &::before {
+//     content: '';
+//     position: absolute;
+//     background: var(--shimmer-bg);
+//     height: 100%;
+//     width: 100%;
+//     -webkit-animation: shimmer 1s infinite;
+//     animation: shimmer 1s infinite;
+//   }
 
-  @-webkit-keyframes shimmer {
-    0% {
-      transform: translateX(-100%);
-    }
-    100% {
-      transform: translateX(100%);
-    }
-  }
+//   @-webkit-keyframes shimmer {
+//     0% {
+//       transform: translateX(-100%);
+//     }
+//     100% {
+//       transform: translateX(100%);
+//     }
+//   }
 
-  @keyframes shimmer {
-    0% {
-      transform: translateX(-100%);
-    }
-    100% {
-      transform: translateX(100%);
-    }
-  }
-}
+//   @keyframes shimmer {
+//     0% {
+//       transform: translateX(-100%);
+//     }
+//     100% {
+//       transform: translateX(100%);
+//     }
+//   }
+// }
 
 .embed-video {
   width: 100%;
@@ -744,10 +744,6 @@ $btn-mb: 0.5rem;
 
     img {
       transition: transform 0.5s;
-
-      &:hover {
-        transform: scale(1.2);
-      }
     }
   }
 
@@ -836,14 +832,15 @@ $btn-mb: 0.5rem;
     }
   }
 
-  .sidebar-bottom {
+  .sidebar-top {
     @include pl-pr(2rem);
 
-    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    padding-left: 2.5rem;
 
     %button {
-      width: 1.75rem;
-      height: 1.75rem;
+      width: 2.5rem;
+      height: 2.5rem;
       margin-bottom: $btn-mb; // multi line gap
       border-radius: 50%;
       color: var(--sidebar-btn-color);
@@ -875,6 +872,7 @@ $btn-mb: 0.5rem;
     .mode-toggle {
       padding: 0;
       border: 0;
+      margin-right: 0.75rem;
 
       @extend %button;
       @extend %sidebar-links;
@@ -1572,7 +1570,7 @@ $btn-mb: 0.5rem;
     $icon-gap: 1rem; // for the bottom icons
 
     .profile-wrapper {
-      margin-top: 3.5rem;
+      margin-top: 1.5rem;
       margin-bottom: 2.5rem;
       padding-left: 3.5rem;
     }
