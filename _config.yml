@@ -18,27 +18,27 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: A Blog # the main title
+title: Pete-Hamlin # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A space for a semi-random collection of thoughts and opinions # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A space for a semi-random collection of thoughts and opinions.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://Pete-Hamlin.github.io"
 
 github:
   username: Pete-Hamlin # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Pete Hamlin
-  email: example@domain.com # change to your email address
+  email: blog@pete-hamlin.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
