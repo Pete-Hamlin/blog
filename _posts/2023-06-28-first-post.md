@@ -8,7 +8,7 @@ toc: false
 ### *"I should start a blog"*
 
 Great idea me! 
-I've always had way to much to say about many things, and what better way to satisfy my inner blabbermouth than throwing those opinions out to the wider internet?
+I've always had way to much too say about many things, and what better way to satisfy my inner blabbermouth than throwing those opinions out to the wider internet?
 It sure has to beat the current model of talking *at* my immediate social group until every pair of eyes eventually glazes over.
 
 So just need to find a platform that I like!
