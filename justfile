@@ -1,11 +1,23 @@
+set positional-arguments
+
+build-image:
+    docker build . --tag pete-hamlin/jekll
+
 build:
     docker run -v $(pwd):/site bretfisher/jekyll build
 serve:
     docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve
+shell:
+    docker run -v $(pwd):/site -it --entrypoint bash bretfisher/jekyll
 
-
-deploy: build
-    rsync -e 'ssh -p 2222' --delete --info=progress2 -r ./_site pete-hamlin.com:/usr/share/homelabos/jekyll
-
-clean:
+@clean:
     rm -rf _site .jekyll-cache vendor
+
+@draft draft:
+    docker run -v $(pwd):/site pete-hamlin/jekyll exec jekyll draft "$@"
+
+@publish publish:
+    docker run -v $(pwd):/site pete-hamlin/jekyll exec jekyll publish $1
+
+@post post:
+    docker run -v $(pwd):/site pete-hamlin/jekyll exec jekyll post "$@"
