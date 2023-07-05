@@ -2,6 +2,7 @@
 title: A New Start
 categories: [General]
 tags: []
+toc: false
 ---
 
 ### *"I should start a blog"*
