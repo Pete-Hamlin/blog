@@ -48,5 +48,5 @@ While not the most thorough investigation, it is still somewhat baffling me as t
 I'm certainly no expert when it comes to feeds/formatting, but a static site is a static site!
 
 So for now, my feed remains as a summary.
-I hope to revisit this one when I have a little more tim eon my hands, and see if we can work out my mistake.
+I hope to revisit this one when I have a little more time on my hands, and see if we can work out my mistake.
 In the meantime, if anyone has had any similar experiences with Jekyll/Atom feeds, I'd love to hear from you (email link in the top left corner of the page).
