@@ -21,12 +21,12 @@ However, they all currently reside within the living room, as that tends to be t
     b. Remains a largely stable temperature
 
 I've always wanted a plant in my office, the place feels somewhat incomplete without some greenery.
-Unfortunately the temperature tends to fluctuate quite a lot in there, as I often work with the window open, which can lead quite a drop in temp.
+Unfortunately the temperature tends to fluctuate quite a lot in there, as I often work with the window open, which can lead to quite a drop in temp.
 I did originally purchase a Golden Dragon that sat by my PC for a few months, but he wasn't getting enough light, so begrudgingly got relocated to the living room (where he is now thriving).
 
 Therefore, meet **Oppenheimer** (Opi for short).
 He's a *Ctenanthe oppenheimaina*, a member of what's commonly called the prayer plant family.
 They're an interesting genus that will fold their leaves upwards at night, and unfurl towards the light during the day (these plants move a **lot**!).
-While they're quite fussy in terms of conditions they like, they're supposed to do better slightly more gloomy conditions, so as long as I can keep the humidity/temperature in the right ranges, then hopefully he should be all good!
+While they're quite fussy in terms of conditions they like, they're supposed to do better in slightly more gloomy conditions, so as long as I can keep the humidity/temperature in the right ranges, then hopefully he should be all good!
 
 Or maybe he'll just end up in the living room with everyone else... Let's see!
