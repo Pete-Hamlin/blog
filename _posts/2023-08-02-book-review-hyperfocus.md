@@ -15,7 +15,7 @@ image:
   alt: Hyperfocus book cover
 date: 2023-08-02 21:22 +0100
 ---
-So it seems I'm on a bit of a productivity book binge at the moment, as fresh on the heels of [Atomic Habits](./2023-07-08-book-review-atomic-habits.md), I found myself diving right into *Hyperfocus: How to manage your attention in a world of distraction* by Chris Bailey.
+So it seems I'm on a bit of a productivity book binge at the moment, as fresh on the heels of [Atomic Habits]({% post_url 2023-07-08-book-review-atomic-habits %}), I found myself diving right into *Hyperfocus: How to manage your attention in a world of distraction* by Chris Bailey.
 
 Another pleasantly short book, that can more or less be divided into 2 halves, 
 

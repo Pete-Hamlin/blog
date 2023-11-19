@@ -1,7 +1,7 @@
 ---
 title: A New Start
 categories: [General]
-tags: []
+tags: [blog]
 toc: false
 ---
 
