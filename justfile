@@ -1,7 +1,7 @@
 set positional-arguments
 
 build-image:
-    docker build . --tag pete-hamlin/jekll
+    docker build . --tag pete-hamlin/jekyll
 
 build:
     docker run -v $(pwd):/site bretfisher/jekyll build

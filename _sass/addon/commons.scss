@@ -331,6 +331,9 @@ i {
     min-width: 100%;
     overflow-x: auto;
     border-spacing: 0;
+    width: 100%;
+    border-collapse: collapse;
+    word-wrap: break-word;
 
     thead {
       border-bottom: solid 2px rgba(210, 215, 217, 0.75);
@@ -354,6 +357,7 @@ i {
 
         td {
           @extend %table-cell;
+          white-space: normal;
         }
       }
     } /* tbody */
