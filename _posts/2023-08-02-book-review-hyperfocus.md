@@ -10,6 +10,7 @@ tags:
 categories:
 - Reviews
 - Books
+- Non-Fiction
 image:
   path: "/assets/img/hyperfocus.jpg"
   alt: Hyperfocus book cover
