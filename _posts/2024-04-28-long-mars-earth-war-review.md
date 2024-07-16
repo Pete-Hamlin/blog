@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Long Mars/Earth (Books 1-3) Review
+title: The Long Mars/Earth/War (Books 1-3) Review
 tags:
 - book
 - review
