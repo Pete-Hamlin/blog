@@ -27,7 +27,7 @@ Book 4 of 'The Long Earth' series has thoroughly cemented the series as probably
 This is a somewhat novel feeling for me when it comes to fiction (the grim acceptance that *A Song of Ice and Fire* will likely never be finished notwithstanding), as normally I just don't enjoy the book/world/ideas and give up, or I get completely pulled in and can't put it down. 
 However, in a similar vein to its predecessors, The Long Utopia once again dangles fascinating & exciting ideas in front of the reader in an immensely slow burn setup, before proceeding to tell an ultimately underwhelming story that barely utilises these pieces at all.
 
-In my review of [the previous 3 books](% post_url _posts/2024-04-28-long-mars-earth-war-review.md %), I highlighted my concerns regarding the overall pacing and direction of the storytelling, and my hope that things would start to pay off the final 2 books.
+In my review of [the previous 3 books]({% post_url 2024-04-28-long-mars-earth-war-review %}), I highlighted my concerns regarding the overall pacing and direction of the storytelling, and my hope that things would start to pay off the final 2 books.
 Sadly, it seems to have doubled down instead on all the elements of storytelling that I *didn't* like about the series, and continues to meander aimlessly in a vast world of ideas that feels like the author has **no idea** how to use.
 I would say the overall structure of the book breaks down as follows:
 	 
