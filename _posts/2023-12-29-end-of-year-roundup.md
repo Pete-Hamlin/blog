@@ -1,10 +1,13 @@
 ---
 layout: post
-title: End of Year Roundup
+title: 2023 End of Year Roundup
 tags:
 - life
 - growth
 - goals
+categories:
+- Life
+- Roundup
 date: 2023-12-29 16:31 +0000
 ---
 The 2 months of Christmas in the UK have finally come an end and with it 2023 limps towards its closing stretch.
@@ -56,7 +59,7 @@ I've put a decent amount of focus on trying to build good habits this year. Some
 |---|---|---|
 | Chess | 10mins/day | Pretty solid on doing this each morning. Has had a noticeable affect on both online games and OTB |
 | Languages | min 40 flash cards/day | Using [anki](https://apps.ankiweb.net/) for German vocabulary and Romanian phrases. Can be quite tough at times if I'm having a rough morning, but well tuned to not become too much of a drag |
-| Coding | mon 40 flash cards/day | Similar to above, but with python, rust and vim shortcuts. Anything comes up that I'm unfamiliar with is flagged for note-taking |
+| Coding | min 40 flash cards/day | Similar to above, but with python, rust and vim shortcuts. Anything comes up that I'm unfamiliar with is flagged for note-taking |
 | Task Prioritising | Daily | Filter through task inbox and prioritise day's work. Not too taxing, and surprisingly satisfying when done right |
 
 ### Going not so well
@@ -70,7 +73,7 @@ I've put a decent amount of focus on trying to build good habits this year. Some
 |  Stretching | 2/week | I Hate it, but I really need to do it. Starting with a couple of short sessions a week 
 | Dance practice | 3/week | This one has really been struggling. I have all the material, and access to a lot of knowledge on the subject. I want the results, so I need to set the time aside and put the work in. Ideally split on 2 fundamentals, and one combinations sessions per week |
 | Running | 1/week | This one has *really* fallen to the wayside this year. Would be good to get it back up to a more regular cycle, but baby steps to start with. |
-| Climbing | 2/week | This one hasn't actually been going so bad, as I've made it to the bouldering wall twice most weeks. In an ideal world would be good to add a dedicated training session at som epoint time allowing. |
+| Climbing | 2/week | This one hasn't actually been going so bad, as I've made it to the bouldering wall twice most weeks. In an ideal world would be good to add a dedicated training session at some point time allowing. |
 | Acrobatics |1/week | This one's struggling a little due to lack of facilities available locally. Goal for January is to check out the scenes in some local cities to see what my options are going forward. |
 | Weight training | 2/week | Have recently overcome a lifelong fear and started going to the gym with my partner. Have surprised myself in actually enjoying it. Would be good to keep this up going forward, but may be tricky around work and other time commitments.  |
 | Hobbies | ??? | Not sure if this is really a habit, but my hobby work has largely fallen to the point of "Let's 3D print something" every couple of months. Would be good to get a bit more of a cadence to it, and maybe do something with the steadily growing pile of unassembled resin parts I have building up on my desk. |

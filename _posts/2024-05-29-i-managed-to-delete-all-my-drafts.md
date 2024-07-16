@@ -7,6 +7,7 @@ tags:
 - life
 layout: post
 title: So I managed to delete all my drafts...
+categories: Tech Dumb
 date: 2024-05-29 22:04 +0100
 ---
 > "Insert some pearl of wisdom about backups here"

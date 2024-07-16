@@ -2,11 +2,14 @@
 layout: post
 title: Write about nice things
 categories:
-- Opinion
+- Life
+- Reflection
 tags:
 - short
 - positivity
 - advice
+- writing
+- opinion
 date: 2023-07-19 18:29 +0100
 ---
 Every now and then fate delivers a piece of evidence you really need to see, serendipitously just when you need to see it (or in Hollywood's case, this actually happens all the time).

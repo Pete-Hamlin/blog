@@ -3,6 +3,7 @@ layout: post
 title: Oops, I broke the pipeline
 date: 2023-11-19 17:41 +0000
 tags: short tech fail blog
+categories: Tech Dumb
 ---
 
 Nothing highlights the futility of [writing to the void]({% post_url 2023-06-28-first-post %}#ok-but-why) quite like realising that the very posts you've written aren't even making it live.

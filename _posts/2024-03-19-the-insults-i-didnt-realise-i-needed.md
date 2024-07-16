@@ -7,6 +7,9 @@ tags:
 - linux
 - tech
 - sudo
+categories:
+- Tech
+- Dumb
 date: 2024-03-19 20:13 +0000
 ---
 Being a *relative* newbie to the linux desktop scene, with barely a decade under my belt, I still have the joy of stumbling across various easter eggs left in systems throughout the years.

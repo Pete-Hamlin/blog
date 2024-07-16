@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fun with atom feeds'
-categories: [Tech]
+categories: [Tech, Coding]
 tags: [short, tech, rss, atom, site]
 ---
 

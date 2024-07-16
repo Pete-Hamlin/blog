@@ -2,11 +2,13 @@
 layout: post
 title: Maybe LLMs are a good thing for writing
 categories:
-- Opinion
+- Tech
+- AI
 tags:
 - tech
 - ai
 - writing
+- opinion
 date: 2023-07-21 17:54 +0100
 ---
 
@@ -53,4 +55,4 @@ While LLMs could stand to muscle humans out when it comes to formal writing, I t
 <br>
 <br>
 
-Perhaps this is a good thing for writing, I don't know. If you have any thoughts on the above I'd love to hear from you.
+Perhaps this is a good thing for writiiii I don't know. If you have any thoughts on the above I'd love to hear from you.

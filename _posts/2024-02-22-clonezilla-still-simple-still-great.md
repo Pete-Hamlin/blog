@@ -6,6 +6,7 @@ tags:
 - tech
 - short
 - backups
+categories: Tech Software
 date: 2024-02-22 19:22 +0000
 ---
 The first tenet of the [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) largely boils down to **do one thing, do it well**.
