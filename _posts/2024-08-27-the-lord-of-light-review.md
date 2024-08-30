@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lord of Light Review
+title: 'Book Review: Lord of Light'
 date: 2024-08-27 10:53 +0100
 image:
   path: "/assets/img/lord-of-light.jpg"
@@ -18,7 +18,8 @@ categories:
 
 ## TL;DR
 
-This is a phenomenal book. The below paragraphs will now ramble on about how phenomenal I think this book is while trying to remain spoiler free.
+*This is a phenomenal book. The below paragraphs will now ramble on about how phenomenal I think this book is while trying to remain spoiler free.*
+
 ## Review
 
 Sometimes... [a random stranger on the internet](https://www.goonhammer.com/goonhammer-reads-science-fiction-far-out/) actually gives very good recommendations.

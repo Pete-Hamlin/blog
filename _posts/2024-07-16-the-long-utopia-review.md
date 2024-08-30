@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Long Utopia - Review'
+title: 'Book Review: The Long Utopia'
 tags:
 - book
 - review
