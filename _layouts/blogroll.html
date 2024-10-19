@@ -1,25 +1,70 @@
 ---
 layout: page
-# The blogroll layout
+# Blogroll of recommended blogs
 ---
 
 {% include lang.html %}
+
+{% assign HEAD_PREFIX = 'h_' %}
+{% assign group_index = 0 %}
+{% assign LIST_PREFIX = 'l_' %}
+
+<div class="post-meta text-muted">
+  <!-- lastmod date -->
+  {% if page.last_modified_at and page.last_modified_at != page.date %}
+  <span>
+    {{ site.data.locales[lang].post.updated }}
+    {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
+  </span>
+  {% endif %}
+</div>
 
 <div class="post-content">
   {{ content }}
 </div>
 
-<div id="blogroll" >
-  <ul class="list-unstyled">
-  {% for blog in site.data.blogs %}
-    <li>
-      <h4>
-        <a href="{{ blog.url }}"><i class="fas fa-code"></i></a>
-        <a href="{{ blog.feed }}"><i class="fas fa-rss"></i></a>
-        {{ blog.title }}
-      </h4>
-      <p>{{ blog.desc }}</p>
-    </li>
-  {% endfor %}
-  </ul>
+
+{% for category in site.data.blogroll %}
+<div class="card categories">
+  <!-- top-category -->
+  <div id="{{ HEAD_PREFIX }}{{ group_index }}" class="card-header d-flex justify-content-between hide-border-bottom">
+    <span class="ms-2">
+      <i class="far fa-folder{% if category.blogs | size > 0 %}-open{% endif %} fa-fw"></i>
+      <span class="mx-2">{{ category.name }}</span>
+    </span>
+
+    <!-- arrow -->
+    {% if category.blogs.size > 0 %}
+    <a href="#{{ LIST_PREFIX }}{{ group_index }}" data-bs-toggle="collapse" aria-expanded="true"
+      aria-label="{{ HEAD_PREFIX }}{{ group_index }}-trigger" class="category-trigger hide-border-bottom">
+      <i class="fas fa-fw fa-angle-down"></i>
+    </a>
+    {% else %}
+    <span data-bs-toggle="collapse" class="category-trigger hide-border-bottom disabled">
+      <i class="fas fa-fw fa-angle-right"></i>
+    </span>
+    {% endif %}
+  </div>
+  <!-- Blogs -->
+  <div id="{{ LIST_PREFIX }}{{ group_index }}" class="collapse show" aria-expanded="true">
+    <ul class="list-group">
+      {% for blog in category.blogs %}
+      <li class="list-group-item">
+        <span class="ms-2">
+          <a href="{{ blog.rss }}" class="category-trigger hide-border-bottom"><i class="fas fa-rss"></i></a>
+          <a href="{{ blog.url }}" class="mx-2">{{ blog.title }}</a>
+          <br />
+          <span class="text-muted font-weight-light">
+            {{ blog.desc | markdownify }}
+          </span>
+        </span>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <!-- .card-header -->
 </div>
+<!-- .card -->
+
+{% assign group_index = group_index | plus: 1 %}
+{% endfor %}
