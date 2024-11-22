@@ -55,7 +55,7 @@ layout: page
           <a href="{{ blog.url }}" class="mx-2">{{ blog.title }}</a>
           <br />
           <span class="text-muted font-weight-light">
-            {{ blog.desc }}
+            {{ blog.desc | markdownify }}
           </span>
         </span>
       </li>

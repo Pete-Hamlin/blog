@@ -1,0 +1,80 @@
+- name: Life
+  blogs:
+    - title: Wait, But Why?
+      url: https://waitbutwhy.com/
+      feed: https://waitbutwhy.com/feed
+      desc: |
+        Honestly I just love Tim Urban's style and humour, as well as his ability to articulate complex emotional topics in a fun and relatable way.
+            Infrequent posts, but always worth a read whenever they come around
+    - title: Freddie DeBoer
+      url: https://freddiedeboer.substack.com/
+      feed: https://freddiedeboer.substack.com/feed
+      desc: |
+        Strongly opinionated, but well written & thought out pieces on a variety of social topics.
+    - title: Astral Codex Ten
+      url: https://www.astralcodexten.com/
+      feed: https://www.astralcodexten.com/feed
+      desc: |
+        Formerly Slate Star Codex. Massive following, and not all of what gets put out is of interest to me, but more than enough thought provoking pieces to check out.
+    - title: Kev Quirk
+      url: https://kevquirk.com/
+      feed: https://kevquirk.com/feed/
+      desc: |
+        Short and easily digestable posts from one of the co-admins of FOSStodon. Though provisionally from someone quite invested in the tech world, is also a large source of pleasant and often relatable life updates.
+    # - title: Cerebralab
+    #   url: https://
+    #   feed: https://
+    #   desc: |
+    #     TBD
+- name: Industry
+  blogs:
+    - title: Where's Your Ed at?
+      url: https://ez.substack.com/
+      feed: https://wheresyoured.at/feed
+      desc: |
+        More of a catharsis read for me, Ed doesn't pull the punches when it comes to highlighting some of the societal issues within the tech/business space.
+        Definitely worth a look for those who hold a somewhat dim view of some of the tech moguls of the world.
+    - title: benkuhn
+      url: https://www.benkuhn.net/
+      feed: https://www.benkuhn.net/index.xml
+      desc: |
+        Another infrequent poster, but I really enjoy Ben's honesty and willingness to share his experiences and mistakes through an impressive tech career.
+    - title: Ludicity
+      url: https://ludic.mataroa.blog/
+      feed: https://ludic.mataroa.blog/rss/
+      desc: |
+        Crude at times, and can come across as somewhat elitist. That being said, the frustrations with the industry he expresses (along with the snarky humour) ultimately won me over in terms of entertainment.
+- name: General Tech
+  blogs:
+    - title: Jim Neilsen's Blog
+      url: https://blog.jim-nielsen.com/
+      feed: https://blog.jim-nielsen.com/feed.xml
+      desc: |
+        Short form, semi regular posts, normally in the theme of personal blog space/tech. Also, just a really nice blog site in itself, wirh [cool stats](https://blog.jim-nielsen.com/about/).
+    - title: mtlynch.io
+      url: https://mtlynch.io/
+      feed: https://mtlynch.io/index.xml
+      desc: |
+        Mostly subscribed for his insight on building a [personal homelab](https://mtlynch.io/building-first-homelab-rack/) (a *someday* side project for me), but also just some cool insights on being a founder/head of a small independent company.
+    - title: The Valuable Dev
+      url: https://thevaluable.dev/
+      feed: https://thevaluable.dev/index.xml
+      desc: |
+        Some really amazing tutorials on tools & environments (particular favourites in [neovim](https://thevaluable.dev/vim-commands-beginner/) and [zsh](https://thevaluable.dev/zsh-install-configure-mouseless/) setup and usage), written clearly & concisely. A lot of my current setup takes inspiration from here.
+    - title: Troy Hunt
+      url: https://www.troyhunt.com/
+      feed: https://www.troyhunt.com/rss/
+      desc: |
+        Cybersecurity professional and creator of [haveibeenpwned](https://haveibeenpwned.com/). Writes up solid postmortems on large data breaches, and just a good source of significant cybersecurity events.
+- name: Oddball/Misc
+  blogs:
+    - title: DYNOMIGHT
+      url: https://dynomight.net/
+      feed: https://dynomight.net/feed.xml
+      desc: |
+        Self described as "science and existential angst", honestly a bit of everything. A great balance of research, humour and ocassionally just good natured weirdness put into words.
+    - title: brrr
+      url: https://brr.fyi/
+      feed: https://brr.fyi/feed.xml
+      desc: |
+        Sadly now inactive (author went home), but this one is wild! A fascinating look into one of the most interesting yet rarely considered areas of the world humans choose to inhabit.
