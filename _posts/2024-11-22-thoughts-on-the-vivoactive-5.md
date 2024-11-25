@@ -55,7 +55,7 @@ Both watches were the version with optional onboard storage for music/podcasts.
 - TL;DR Adding music files manually is still possible. 
 	- The model 3 was cool because you could plug the watch into a PC and it would happily show up as a mass storage device where you could just drag & drop music files onto it for usage in the built in music app.  
 	- I was worried this feature may have been *fixed*, but can happily report that the same trick works with the model 5 (see, it's really not that hard apple...).
-	- This is doubly useful given the fact that 'online' providers of music are borderline usable at best (see [above](#data-&-apps)), providing a robust way to just get what I want to listen to on the device with minimal hassle (I truly miss the days of mp3 players sometimes)
+	- This is doubly useful given the fact that 'online' providers of music are borderline usable at best (see [above](#data--apps)), providing a robust way to just get what I want to listen to on the device with minimal hassle (I truly miss the days of mp3 players sometimes)
 - Connects to Bluetooth headphones and my 3rd party hear rate monitor seamlessly. Have never had an issue with this. 
 - Overall WiFi connectivity on the model 3 was bad, and it never reliably connected to my home network. This seems to have been improved on the model 5 significantly. where the watch connected straight away without issue.
 	- I still haven't really grokked how exactly the watch interacts with the network (unclear when it's talking to the phone via Bluetooth, or actually connecting externally to the network), but it seems to sort itself out for the most part, so I tend to leave it be.
